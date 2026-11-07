@@ -1,4 +1,8 @@
-ID	文件	Commit	说明
-S1	_shared/写作规范.md	a1ded7b	fix(shared): 明确点名边界
-S2	_shared/价格快照-2026-11.md	6e6d231	draft(shared): 价格快照 2026-11
+ID	文件	最近提交	说明
+S1	_shared/写作规范.md	69922a2	fix(shared): 修正月流量换算与免责声明口径
+S2	_shared/价格快照-2026-11.md	69922a2	fix(shared): 修正月流量换算与免责声明口径
 S3	_shared/三档成本模型.md	ecfb38f	draft(shared): 三档成本模型
+C05	chapters/05-成本解剖篇.md	d875bce	draft(ch05): 成本解剖篇
+C01	chapters/01-认知篇.md	aa9b294	draft(ch01): 认知篇
+C02	chapters/02-算账篇.md	e7abf6c	draft(ch02): 算账篇
+C03	chapters/03-白嫖篇.md	276c810	draft(ch03): 白嫖篇
