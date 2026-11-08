@@ -8,7 +8,7 @@ C02	chapters/02-算账篇.md	e7abf6c	draft(ch02): 算账篇
 C03	chapters/03-白嫖篇.md	276c810	draft(ch03): 白嫖篇
 C04	chapters/04-省钱篇.md	e13739c	draft(ch04): 省钱篇
 C06	chapters/06-选型篇.md	068c64d	draft(ch06): 选型篇
-C07	chapters/07-低价机篇.md	95d3dce	draft(ch07): 低价机篇
+C07	chapters/07-低价机篇.md	6bcbf90	fix(ch07): 修正许可证查询入口
 C08	chapters/08-决策避坑篇.md	c5f2474	draft(ch08): 决策避坑篇
 L1	labs/Lab1-静态作品集.md	b005e5d	draft(lab1): 静态作品集
 L2	labs/Lab2-全栈小工具.md	cc64ff0	draft(lab2): 全栈小工具
@@ -20,3 +20,5 @@ T01	toolkit/01-成本地板计算器与价格快照表.md	c44bf48	draft(toolkit0
 T02	toolkit/02-价格体检评分卡与三色灯.md	c9f7e33	draft(toolkit02): 价格体检评分卡与三色灯
 T03	toolkit/03-查验命令与灰色手法识别表.md	b7d42c4	draft(toolkit03): 查验命令与灰色手法识别表
 T04	toolkit/04-术语表与免费资源清单.md	579eff3	draft(toolkit04): 术语表与免费资源清单
+T05	toolkit/05-买前10问与监控复盘模板.md	00567c7	draft(toolkit05): 买前10问与监控复盘模板
+A01	appendix/A-F-附录.md	e712fe9	draft(appendix): 附录 A-F
