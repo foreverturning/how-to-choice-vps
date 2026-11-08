@@ -3,16 +3,16 @@ S1	_shared/写作规范.md	69922a2	fix(shared): 修正月流量换算与免责�
 S2	_shared/价格快照-2026-11.md	69922a2	fix(shared): 修正月流量换算与免责声明口径
 S3	_shared/三档成本模型.md	ecfb38f	draft(shared): 三档成本模型
 C05	chapters/05-成本解剖篇.md	d875bce	draft(ch05): 成本解剖篇
-C01	chapters/01-认知篇.md	aa9b294	draft(ch01): 认知篇
-C02	chapters/02-算账篇.md	e7abf6c	draft(ch02): 算账篇
-C03	chapters/03-白嫖篇.md	276c810	draft(ch03): 白嫖篇
-C04	chapters/04-省钱篇.md	e13739c	draft(ch04): 省钱篇
+C01	chapters/01-认知篇.md	ad1352a	fix(ch01): 按 P-054 免费额度重算账单链
+C02	chapters/02-算账篇.md	ef537ad	fix(ch02): 修正利用率公式与数字口径
+C03	chapters/03-白嫖篇.md	186f29b	fix(ch03): 白嫖清单去品牌化与合规修订
+C04	chapters/04-省钱篇.md	a8fe320	fix(ch04): 定点修正阈值、海外带宽与标注
 C06	chapters/06-选型篇.md	068c64d	draft(ch06): 选型篇
 C07	chapters/07-低价机篇.md	6bcbf90	fix(ch07): 修正许可证查询入口
 C08	chapters/08-决策避坑篇.md	c5f2474	draft(ch08): 决策避坑篇
 L1	labs/Lab1-静态作品集.md	b005e5d	draft(lab1): 静态作品集
 L2	labs/Lab2-全栈小工具.md	cc64ff0	draft(lab2): 全栈小工具
-L3	labs/Lab3-轻量服务器建站.md	1b20069	draft(lab3): 轻量服务器建站
+L3	labs/Lab3-轻量服务器建站.md	5b20828	fix(lab3): 修正禁用词表述
 L4	labs/Lab4-大厂与低价机对比.md	ec7489d	draft(lab4): 大厂与低价机对比
 L5	labs/Lab5-预算告警与复盘.md	87f11eb	draft(lab5): 预算告警与复盘
 L6	labs/Lab6-低价VPS体检.md	57e2488	draft(lab6): 低价VPS体检
@@ -25,3 +25,5 @@ A01	appendix/A-F-附录.md	e712fe9	draft(appendix): 附录 A-F
 PLAN1	plans/P7-执行计划.md	2cef000	chore(ops): 归档 P7 执行计划（一次性快照）
 Q1	qa/p7-01-04.md	1a0f75e	opencode完成部分存档（Q1 质检报告，36 问题）
 CHG	ops/数据变更记录.md	86b051f	fix(shared): 落地 data-version 与变更契约（D-001～D-008）
+Q2	qa/p7-05-08.md	d1b8337	qa(p7): 补写 Q2/Q3 质检报告
+Q3	qa/p7-labs-toolkit.md	d1b8337	qa(p7): 补写 Q2/Q3 质检报告
