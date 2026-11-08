@@ -22,3 +22,6 @@ T03	toolkit/03-查验命令与灰色手法识别表.md	b7d42c4	draft(toolkit03):
 T04	toolkit/04-术语表与免费资源清单.md	579eff3	draft(toolkit04): 术语表与免费资源清单
 T05	toolkit/05-买前10问与监控复盘模板.md	00567c7	draft(toolkit05): 买前10问与监控复盘模板
 A01	appendix/A-F-附录.md	e712fe9	draft(appendix): 附录 A-F
+PLAN1	plans/P7-执行计划.md	2cef000	chore(ops): 归档 P7 执行计划（一次性快照）
+Q1	qa/p7-01-04.md	1a0f75e	opencode完成部分存档（Q1 质检报告，36 问题）
+CHG	ops/数据变更记录.md	86b051f	fix(shared): 落地 data-version 与变更契约（D-001～D-008）
