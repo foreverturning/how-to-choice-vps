@@ -1,0 +1,4 @@
+# 子 agent 临时文件
+ops/.tmp/
+*.tmp
+*.bak
