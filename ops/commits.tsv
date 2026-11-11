@@ -1,0 +1,18 @@
+﻿ID	文件	最近提交	说明
+CFG1	.gitattributes	b8a2248	chore(repo): 建立 serverless 基线与行尾约定
+CFG2	.gitignore	b8a2248	chore(repo): 建立 serverless 基线与行尾约定
+README	README.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
+ZONGGANG	00-总纲.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
+SPEC	_shared/写作规范.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
+MAIN	docs/00-先判定要不要后端.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
+FLOW	flows/纯单机上线全流程.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
+CASE	cases/可查证示例与证据分层.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
+DECIDE	decisions/不选与选用serverless的代价.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
+PRICE	_shared/价格快照-2026-11.md	a1bafce	draft(shared): 价格快照与来源清单及全量术语表
+SRC	appendix/来源清单.md	a1bafce	draft(shared): 价格快照与来源清单及全量术语表
+TERM	appendix/术语表.md	a1bafce	draft(shared): 价格快照与来源清单及全量术语表
+NOTE	emmm/FaaS免费额度备注.md	a1bafce	draft(shared): 价格快照与来源清单及全量术语表
+JUDGE	plans/分支改动判定.md	a1bafce	draft(shared): 价格快照与来源清单及全量术语表
+CHANGE	ops/数据变更记录.md	—	台账自身提交，sha 以 git log 为准
+LOG	ops/commits.tsv	—	台账自身提交，sha 以 git log 为准
+PROGRESS	ops/进度.md	—	台账自身提交，sha 以 git log 为准
