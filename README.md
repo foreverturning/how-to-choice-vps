@@ -47,7 +47,7 @@
 - 闸门 7 条、批次收尾 5 步、价格标注三种写法：`ops/编排方案.md`
 - 进度、异常记录、文件↔提交留痕：`ops/进度.md`、`ops/commits.tsv`
 - 子 agent 契约：`.workbuddy/agents/vps-*.md`（WorkBuddy 格式）与 `.opencode/agents/vps-*.md`（opencode 原版，正文 100% 复用）
-- 分支：`draft/workbuddy` 主交付、`archive/v1-original` 原版隔离、`draft/v1` opencode 存档、`main` 基线
+- 分支：`vps` 主交付、`archive/v1-original` 原版隔离、`draft/v1` opencode 存档、`main` 基线
 
 ## 已知待办
 
