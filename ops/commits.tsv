@@ -1,16 +1,17 @@
 ID	文件	最近提交	说明
 CFG1	.gitattributes	b8a2248	chore(repo): 建立 serverless 基线与行尾约定
 CFG2	.gitignore	b8a2248	chore(repo): 建立 serverless 基线与行尾约定
-README	README.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
-ZONGGANG	00-总纲.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
-SPEC	_shared/写作规范.md	67585c6	draft(shared): 价格快照新增 S-200~249、来源清单扩充 UNK-37~50、术语表扩至 130 条
+README	README.md	47b6847	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
+ZONGGANG	00-总纲.md	47b6847	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
+SPEC	_shared/写作规范.md	47b6847	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
+META	_shared/00-元规则.md	47b6847	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
 MAIN	docs/00-先判定要不要后端.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
 FLOW	flows/纯单机上线全流程.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
 FLOW2	flows/版本更新与热更新边界.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
 CASE	cases/可查证示例与证据分层.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
 DECIDE	decisions/不选与选用serverless的代价.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
 PRICE	_shared/价格快照-2026-11.md	67585c6	draft(shared): 价格快照新增 S-200~249、来源清单扩充 UNK-37~50、术语表扩至 130 条
-SRC	appendix/来源清单.md	67585c6	draft(shared): 价格快照新增 S-200~249、来源清单扩充 UNK-37~50、术语表扩至 130 条
+SRC	appendix/来源清单.md	47b6847	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
 TERM	appendix/术语表.md	67585c6	draft(shared): 价格快照新增 S-200~249、来源清单扩充 UNK-37~50、术语表扩至 130 条
 NOTE	emmm/FaaS免费额度备注.md	a1bafce	draft(shared): 价格快照与来源清单及全量术语表
 JUDGE	plans/分支改动判定.md	a1bafce	draft(shared): 价格快照与来源清单及全量术语表
