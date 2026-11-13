@@ -18,3 +18,6 @@ JUDGE	plans/分支改动判定.md	a1bafce	draft(shared): 价格快照与来源�
 CHANGE	ops/数据变更记录.md	—	台账自身提交，sha 以 git log 为准
 LOG	ops/commits.tsv	—	台账自身提交，sha 以 git log 为准
 PROGRESS	ops/进度.md	—	台账自身提交，sha 以 git log 为准
+RULEIDX	_shared/规则索引.md	—	规则条款级清单与按任务加载协议；新文件，sha 以 git log 为准
+RQREG	ops/质疑与修订登记.md	—	治理层登记实例单一落点；新文件，sha 以 git log 为准
+COVGRID	appendix/覆盖面候选集.md	—	供给侧候选集覆盖网格薄壳；新文件，sha 以 git log 为准
