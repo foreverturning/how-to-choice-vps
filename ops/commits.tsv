@@ -1,23 +1,23 @@
 ID	文件	最近提交	说明
 CFG1	.gitattributes	b8a2248	chore(repo): 建立 serverless 基线与行尾约定
 CFG2	.gitignore	b8a2248	chore(repo): 建立 serverless 基线与行尾约定
-README	README.md	445b29f	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
+README	README.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
 ZONGGANG	00-总纲.md	445b29f	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
 SPEC	_shared/写作规范.md	445b29f	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
 META	_shared/00-元规则.md	445b29f	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
-MAIN	docs/00-先判定要不要后端.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
+MAIN	docs/00-先判定要不要后端.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
 FLOW	flows/纯单机上线全流程.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
-FLOW2	flows/版本更新与热更新边界.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
+FLOW2	flows/版本更新与热更新边界.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
 CASE	cases/可查证示例与证据分层.md	d9ec171	draft(docs): 主报告与三份单开文件及入口总纲
-DECIDE	decisions/不选与选用serverless的代价.md	f4a4b82	draft(docs): 新增版本更新与热更新边界单开文件并同步主报告判定表与十个坑
-PRICE	_shared/价格快照-2026-11.md	67585c6	draft(shared): 价格快照新增 S-200~249、来源清单扩充 UNK-37~50、术语表扩至 130 条
-SRC	appendix/来源清单.md	445b29f	draft(shared): 新增元规则文件，全库规则改为可质疑可修订并同步入口与计数
-TERM	appendix/术语表.md	445b29f	draft(shared): 价格快照新增 S-200~249、来源清单扩充 UNK-37~50、术语表扩至 130 条
-NOTE	emmm/FaaS免费额度备注.md	445b29f	draft(shared): 价格快照与来源清单及全量术语表
+DECIDE	decisions/不选与选用serverless的代价.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
+PRICE	_shared/价格快照-2026-11.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
+SRC	appendix/来源清单.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
+TERM	appendix/术语表.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
+NOTE	emmm/FaaS免费额度备注.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
 JUDGE	plans/分支改动判定.md	a1bafce	draft(shared): 价格快照与来源清单及全量术语表
 CHANGE	ops/数据变更记录.md	—	台账自身提交，sha 以 git log 为准
 LOG	ops/commits.tsv	—	台账自身提交，sha 以 git log 为准
 PROGRESS	ops/进度.md	—	台账自身提交，sha 以 git log 为准
 RULEIDX	_shared/规则索引.md	445b29f	规则条款级清单与按任务加载协议；新文件，sha 以 git log 为准
 RQREG	ops/质疑与修订登记.md	445b29f	治理层登记实例单一落点；新文件，sha 以 git log 为准
-COVGRID	appendix/覆盖面候选集.md	445b29f	供给侧候选集覆盖网格薄壳；新文件，sha 以 git log 为准
+COVGRID	appendix/覆盖面候选集.md	bd9b549	draft(data): 供给侧四层横扫取证与数据层回填（DC-003）
